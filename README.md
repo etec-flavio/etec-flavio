@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Flavio&color=EDE0D4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>🖖Hello There, I'm from Brazil and I'm studying high school with integrated technical studies at Eniac college and making Etec.</p>
+<p>I'm from Brazil and I'm studying high school with integrated technical studies at Eniac college and making Etec.</p>
