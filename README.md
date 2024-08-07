@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=etec-flavio&show_icons=true&title_color=7F5539&text_color=A68A64&icon_color=783c00&bg_color=EDE0D4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=etec-flavio&show_icons=true&title_color=414833&text_color=656D4A&icon_color=414833&bg_color=EDE0D4&cache_seconds=2300" alt="ilustração do status do github">
 
 <a href="https://github.com/Fh-Shadow" title="Main profile">
     <img src="https://img.shields.io/static/v1?label=Overview&message=Flavio&color=EDE0D4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
