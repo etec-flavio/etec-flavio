@@ -18,8 +18,12 @@
 
 **Learning Languages / frameworks:** 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwind-css)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&)
 
 **Devops:** 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -28,3 +32,8 @@
 **Development tools:** 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+## Find me here
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-perusin-de-souza-a51321315)](https://www.linkedin.com/in/flávio-henrique-perusin-de-souza-a51321315)
+[![Gmail Badge](https://img.shields.io/badge/-flavio.souza99@etec.sp.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavio.souza99@etec.sp.gov.br)](mailto:flavio.souza99@etec.sp.gov.br)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Fh-Shadow)
